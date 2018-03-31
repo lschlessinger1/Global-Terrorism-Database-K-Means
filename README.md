@@ -27,12 +27,15 @@ The five resulting centroid coordinates are:
 | 38.414250505940146| 28.417748608803993|
 
 Figure 1: 
+These are where terrorist attacks have occured.
 ![alt text][fig1]
 
 Figure 2: 
+After clustering, we find the following centroids.
 ![alt text][fig2]
 
 Figure 3: 
+Plotting both together we can see the following map.
 ![alt text][fig3]
 
 [fig1]: https://github.com/lschlessinger1/Global-Terrorism-Database-K-Means/blob/master/fig1.png "Figure 1"
