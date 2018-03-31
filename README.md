@@ -26,4 +26,17 @@ The five resulting centroid coordinates are:
 | 3.2801139683765075| -79.74785539671865|
 | 38.414250505940146| 28.417748608803993|
 
+Figure 1: 
+![alt text][fig1]
+
+Figure 2: 
+![alt text][fig2]
+
+Figure 3: 
+![alt text][fig3]
+
+[fig1]: https://github.com/lschlessinger1/Global-Terrorism-Database-K-Means/blob/master/fig1.png "Figure 1"
+[fig2]: https://github.com/lschlessinger1/Global-Terrorism-Database-K-Means/blob/master/fig2.png "Figure 2"
+[fig3]: https://github.com/lschlessinger1/Global-Terrorism-Database-K-Means/blob/master/fig3.png "Figure 3"
+
 [1]: https://www.kaggle.com/START-UMD/gtd
